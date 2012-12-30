@@ -1,8 +1,5 @@
-#Julia Ting
-#julia.ting@gatech.edu
-#I worked on this with the help of some people from the orgs room, asking questions
-#and being given input & advice. Jarvis Johnson helped me find itertools.
-#I used class notes as well.
+#Code written by Julia Ting
+
 
 # **** 24 :: A CARD GAME SIMULATED ON PYTHON ****
 
