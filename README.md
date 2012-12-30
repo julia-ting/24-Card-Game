@@ -1,4 +1,2 @@
-Test
+Python Card Game: 24
 ====
-
-This is just a test
